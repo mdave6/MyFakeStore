@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\Fakestore.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\AdminView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\CartView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\CustomerLoginView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\MainView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\ProductsView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\ReceiptView.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\Fakestore_MarkupCompile.cache
+C:\Users\david\source\repos\Fakestore\obj\Debug\netcoreapp3.1\Fakestore_MarkupCompile.lref
